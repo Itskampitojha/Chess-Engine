@@ -1,6 +1,4 @@
-# Chess-Engine
-
-# Chess Game Readme
+# Chess-Engine Readme
 
 ## Introduction
 
